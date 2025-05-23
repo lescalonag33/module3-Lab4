@@ -1,0 +1,6 @@
+snowflake.core
+snowflake-snowpark-python
+snowflake.snowpark.context
+streamlit
+altair
+pandas
