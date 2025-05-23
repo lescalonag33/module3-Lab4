@@ -1,5 +1,5 @@
 streamlit[snowflake]
-snowflake-snowpark-python
+snowflake-snowpark-python==0.8.0
 snowflake.core
 altair
 pandas
