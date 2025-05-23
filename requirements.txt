@@ -1,5 +1,3 @@
 streamlit[snowflake]
-snowflake.core
-snowflake.snowpark.context
 altair
 pandas
